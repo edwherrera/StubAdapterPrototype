@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stub-adapter.iml" filepath="$PROJECT_DIR$/.idea/modules/stub-adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stub-adapter_main.iml" filepath="$PROJECT_DIR$/.idea/modules/stub-adapter_main.iml" group="stub-adapter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stub-adapter_test.iml" filepath="$PROJECT_DIR$/.idea/modules/stub-adapter_test.iml" group="stub-adapter" />
+    </modules>
+  </component>
+</project>
