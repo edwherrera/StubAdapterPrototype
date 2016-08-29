@@ -72,7 +72,7 @@ public class StubAdapter {
 
             flightGroup.setFlightTime(calculateFlightTime());
             flightGroup.setTravelTime(calculateTravelTime());
-            flightGroup.setMixedCabins(generateRandom(0,2) == 1);
+            flightGroup.setMixedCabins(generateRandom(0, 2) == 1);
 
             flightGroups.add(flightGroup);
         }
@@ -91,10 +91,6 @@ public class StubAdapter {
     }
 
     private String randomGateway() {
-        return "";
-    }
-
-    private String randomCabinType() {
         return "";
     }
 
